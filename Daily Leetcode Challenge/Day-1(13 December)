@@ -1,3 +1,6 @@
+1582. Special Positions in a Binary Matrix
+
+
 class Solution {
 public:
     int numSpecial(vector<vector<int>>& mat) {
