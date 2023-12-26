@@ -1,3 +1,5 @@
+2706. Buy Two Chocolates
+
 class Solution {
 public:
     int buyChoco(vector<int>& prices, int money) {
